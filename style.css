@@ -1,0 +1,32 @@
+p{
+    text-align: justify;
+    color:rgb(20, 220, 140);
+    font-size: 14pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(255, 165, 0);
+    text-shadow: 2px 2px 5px yellowgreen;
+}
+
+hr{
+    border: 4px bisque dashed;
+}
+
+fieldset,legend{
+    border: 5px outset maroon;
+    padding: 5px 10px;
+    border-radius: 35px;
+}
+
+legend{
+    background: yellow;
+}
+
+fieldset{
+    background-image: linear-gradient( red , orange , yellow , green , blue , purple , black);
+}
